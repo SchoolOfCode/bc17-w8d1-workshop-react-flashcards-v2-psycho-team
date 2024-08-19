@@ -1,0 +1,5 @@
+.SuperContainer{
+    display: grid;
+    grid-template-rows: 40% 50% 10%;
+}
+
