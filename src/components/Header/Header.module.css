@@ -1,0 +1,29 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 5em;
+  }
+
+.title{
+  font-size: 1.4em;
+  display: block;
+  padding: 0
+
+  }
+
+.buttonMenu{
+  height: 4em;
+  width: 4em; 
+  padding: 0 0 0 0;
+  border: none;
+  background-color: white;
+}
+
+.buttonImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2em;
+  width: 2.2em;
+}

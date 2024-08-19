@@ -1,0 +1,30 @@
+.footer {
+    padding: 10px;
+    height: 250px;
+    background-color: #f0f1f1;
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+  }
+  .footerColunm {
+    display: flex;
+    flex-direction: column;
+  }
+  .footerNav {
+    display: block;
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+  }
+  .socialLink {
+    text-decoration: none;
+    color: #000;
+  }
+  .emailLink {
+    color: #000;
+  }
+  .colunmsContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
