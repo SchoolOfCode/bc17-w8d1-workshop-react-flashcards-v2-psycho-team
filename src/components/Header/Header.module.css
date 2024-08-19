@@ -1,7 +1,6 @@
 .Header{
   display: grid;
   grid-template-rows: 33%;
-  height: 6em;
   justify-content: center;
   align-items: center;
   text-align: center;
